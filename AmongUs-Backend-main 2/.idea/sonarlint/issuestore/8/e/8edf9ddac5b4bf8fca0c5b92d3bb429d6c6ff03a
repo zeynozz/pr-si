@@ -1,0 +1,13 @@
+
+
+java:S1192"HDefine a constant instead of duplicating this literal "/topic/" 5 times.(τΫθύ8³‰άγ€2J$c5fa9e8d-4136-43f4-9ec2-cefa420a276e
+
+java:S1192"IDefine a constant instead of duplicating this literal "/gameEnd" 4 times.(τΫθύ8΄‰άγ€2J$4de45a48-d26c-43e4-b303-2fffec318861
+g
+java:S1452C"&Remove usage of generic wildcard type.(¦Ό¶φώÿÿÿÿJ$355d08b2-d5c1-4591-b11c-21d18b46bfe2
+k	java:S106f"+Replace this use of System.out by a logger.(Ϋ¦ρ¦ψÿÿÿÿJ$5cafb78b-6004-4241-a551-e1a5ca7e5c80
+f	java:S106v"+Replace this use of System.out by a logger.(αΩΡJ$df9276a5-95ab-4350-9843-e88ccd9399a4
+e	java:S106y"+Replace this use of System.out by a logger.(„σ†2J$962a28e9-8adb-4972-b078-269d2ce72f86
+s	java:S106"+Replace this use of System.err by a logger.(Νσ²΅ύÿÿÿÿ8άγ€2J$1fb47171-35bf-409f-a866-cde47bf6c4b3
+s	java:S106£"+Replace this use of System.err by a logger.(α’Ξϊÿÿÿÿ8άγ€2J$222e3f1f-751c-4776-a656-62bcfe1314af
+n	java:S106Ϋ"+Replace this use of System.out by a logger.(έ³½8άγ€2J$24d4fbd9-e2ce-4ca8-aace-57e52d058eeb
